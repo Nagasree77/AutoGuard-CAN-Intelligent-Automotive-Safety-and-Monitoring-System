@@ -239,8 +239,11 @@ The system integrates:
 The project provides practical experience with Embedded C, LPC2129 architecture, ADC, interrupts, I2C, accelerometer interfacing, and CAN communication.
 
 ## 👨‍💻 Author
+NAGA SREE SUBBALAKSHMI DEVI
 
+ECE
 
+CLG
 
 ## 📜 License
 
