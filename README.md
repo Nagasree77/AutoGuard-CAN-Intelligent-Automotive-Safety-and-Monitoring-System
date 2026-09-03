@@ -240,11 +240,7 @@ The project provides practical experience with Embedded C, LPC2129 architecture,
 
 ## 👨‍💻 Author
 
-GUGULOTH VIKRAM
 
-Electronics and Communication Engineering
-
-National Institute of Technology Arunachal Pradesh
 
 ## 📜 License
 
